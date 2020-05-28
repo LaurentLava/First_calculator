@@ -1,0 +1,4 @@
+1) background for operations not working
+2) Adjust sizes to fill up the space
+3) 0 on 2 columns
+4) Add clear button
