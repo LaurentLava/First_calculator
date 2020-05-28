@@ -15,8 +15,11 @@ I tried to learn how the Tkinter module was working so I decided to create a sim
 
 ### Installing
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+* Clone the repo using
+
+```
+https://github.com/LaurentLava/First_calculator
+```
 
 ### Executing program
 
